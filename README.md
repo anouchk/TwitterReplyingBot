@@ -7,7 +7,7 @@ Il faut au préalable avoir installé npm et le twit package :
 <li>https://github.com/ttezel/twit</li></ul>
 
 # Objectif de départ
-L'objectif de départ était de fabriquer un robot à qui l'on puisse signaler des mots ou phrases caractéristiques d'un hoax diffusé sur Twitter, face auquel le robot répondrait instantanément, en rétablissant les faits. Ce combattant des fake news s'appelle True_Newz_.
+L'objectif de départ était de fabriquer un robot à qui l'on puisse signaler des mots ou phrases caractéristiques d'un hoax diffusé sur Twitter, face auquel le robot répondrait instantanément, en rétablissant les faits. Ce combattant des fake news peut s'appeler comme vous le souhaitez, pour notre part, on l'a baptisé True_Newz_.
 
 # Première étape : interagir avec les personnes qui répondent aux tweets
 Première étape : le ReplyingBot, ou bot15.js. Il a la particularité de n'interagir qu'avec les personnes qui répondent à ses tweets. Il répond alors "Hello !". 
